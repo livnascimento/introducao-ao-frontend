@@ -2,7 +2,7 @@
 
 Que bom que você chegou ao repositório do nosso curso de Introdução ao Front-End! Este repositório foi criado para ajudar você a acompanhar e praticar os exercícios e projeto do curso. Aqui você encontrará recursos, instruções e informações importantes para o desenvolvimento das suas habilidades.
 
-## 📑  Descrição do Curso
+## ℹ  Descrição do Curso
 
 Este curso tem como objetivo fornecer uma introdução ao desenvolvimento Front-End, abordando conceitos e tecnologias essenciais para criar interfaces de usuário incríveis. Ao longo do curso, você terá a oportunidade de trabalhar em exercícios práticos, projetos e explorar as seguintes áreas:
 
@@ -23,7 +23,7 @@ O repositório está organizado de forma a facilitar a navegação e o acesso ao
 
 - [`/projeto`](./projeto/): A base e recursos para o projeto prático que você desenvolverá ao longo do curso estão armazenados neste diretório.
 
-## Instruções de Uso
+## 🧾 Instruções de Uso
 
 1. Faça um fork desse repositório;
 
@@ -39,16 +39,16 @@ O repositório está organizado de forma a facilitar a navegação e o acesso ao
 
 5. Trabalhe nos exercícios e projeto, fazendo commits regulares em seu fork.
 
-## Contribuição
+## 🤝🏻 Contribuição
 
 Se você encontrar erros, problemas ou tiver sugestões de melhorias para este repositório, sinta-se à vontade para abrir uma "issue" ou enviar uma solicitação de pull (Pull Request). Sua contribuição é bem-vinda!
 
-## Recursos Adicionais
+## ➕  Recursos Adicionais
 
 - [Link para do canal](https://www.youtube.com/channel/UCDyFYRMV6G8ULVe2GHHF_SA)
 - [Discord do canal](https://discord.gg/YeTrqthE)
 
-## Contato
+## ✉ Contato
 
 Se você tiver alguma dúvida ou precisar de assistência adicional, sinta-se à vontade para entrar em contato comigo em [liviaraianen@gmail.com](mailto:liviaraianen@gmail.com).
 
