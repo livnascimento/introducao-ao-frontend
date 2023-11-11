@@ -1,0 +1,5 @@
+img {
+    transform: scale(0.5);
+    width: 30% !important;
+    align-self: center;
+}
