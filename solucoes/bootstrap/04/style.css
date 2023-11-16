@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css");
+
+html {
+    font-family: "Montserrat", "Arial", sans-serif;
+}
+
+.input-group-text {
+    border-right: none;
+    background-color: transparent;
+}
+
+.form-control  {
+    border-left: none;
+}
+
+#main-card {
+    background-color: #031633;
+    height: 23rem;
+}
+
+
+#main-card .card-img-top {
+    transform: translateY(-45%);
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
+#saude {
+    font-size: 10rem;
+}
