@@ -42,6 +42,10 @@ Esse projeto é um pouquinho (só um pouquinho mesmo 🤏🏻) mais difícil do 
 
 9. Use os conhecimentos adiquiridos até agora para posicionar os elementos dos 4 cards menores.
 
+Ao final desse passo-a-passo, sua página deve ter mais ou menos a seguinte aparência:
+
+![](./assets/resultado.png)
+
 ## ➕ Atividade extra
 
 > Para quem quer se aprofundar no conteúdo.
