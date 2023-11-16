@@ -39,7 +39,7 @@ A proposta do exercício 03 é criar o front-end de uma página de login respons
 
     - ocupe 75% da largura da tela;
 
-5. Adicione o [`CDN do Bootstrap Icons`](https://www.bootstrapcdn.com/bootstrapicons/) e insira o icon `person` ao input `user` e o `lock` ao input `password`.
+5. Adicione o CDN do Bootstrap Icons.
 
 6. Ajuste o espaçamento entre os inputs, imagem e botão de acordo com sua preferência.
 
