@@ -1,12 +1,3 @@
 body {
     background-color: #F0DEFF;
 }
-
-.input-group-text {
-    border-right: none;
-    background-color: transparent;
-}
-
-.form-control  {
-    border-left: none;
-}
