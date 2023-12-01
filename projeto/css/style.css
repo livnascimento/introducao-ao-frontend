@@ -3,3 +3,29 @@
     -lilas: #A993BF;
     -rosa: #F2B6D7;
 }
+
+.card {
+    overflow: hidden;
+}
+
+@media (min-width: 768px) {
+    .card {
+        height: 17.5em;
+    }
+}
+
+@media (max-width: 240px) {
+    img {
+        transform: scale(0.8);
+    }
+    .card {
+        height: 19em;
+    }
+}
+
+@media (max-width: 768px) {
+    img {
+        transform: scale(0.8);
+    }
+}
+  
